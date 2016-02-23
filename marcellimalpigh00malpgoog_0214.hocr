@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./marcellimalpigh00malpgoog_0214.png"; bbox 0 0 1319 2048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 641 140 1306 225">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 641 140 1306 225">
+     <span class='ocr_line' id='line_1_1' title="bbox 641 140 1306 200; baseline -0.003 -27"><span class='ocrx_word' id='word_1_1' title='bbox 641 176 708 200; x_wconf 40' lang='lat'>2⁴70-</span> <span class='ocrx_word' id='word_1_2' title='bbox 1175 140 1306 185; x_wconf 55' lang='grc' dir='ltr'>ἧιῦ-λινιι.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1079 204 1139 225; baseline -0.017 -7"><span class='ocrx_word' id='word_1_3' title='bbox 1079 204 1139 225; x_wconf 75' lang='lat'>271.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 81 183 541 495">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 81 183 541 495">
+     <span class='ocr_line' id='line_1_3' title="bbox 81 183 541 495; baseline 0 1553"><span class='ocrx_word' id='word_1_4' title='bbox 81 183 541 495; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 238 731 307 768">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 238 731 307 768">
+     <span class='ocr_line' id='line_1_4' title="bbox 238 731 307 768; baseline 0.014 -8"><span class='ocrx_word' id='word_1_5' title='bbox 238 731 307 768; x_wconf 73' lang='lat'>2721</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 922 1548 990 1572">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 922 1548 990 1572">
+     <span class='ocr_line' id='line_1_5' title="bbox 922 1548 990 1572; baseline -0.015 -8"><span class='ocrx_word' id='word_1_6' title='bbox 922 1548 990 1572; x_wconf 66' lang='grc' dir='ltr'>’.ἱ-73.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

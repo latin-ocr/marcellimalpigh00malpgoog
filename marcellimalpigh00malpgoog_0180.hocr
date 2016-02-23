@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./marcellimalpigh00malpgoog_0180.png"; bbox 0 0 1319 2048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1181 94 1314 139">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1181 94 1314 139">
+     <span class='ocr_line' id='line_1_1' title="bbox 1181 94 1314 139; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 1181 94 1282 125; x_wconf 50' lang='lat' dir='ltr'>ntlzxxae</span> <span class='ocrx_word' id='word_1_2' title='bbox 1304 134 1314 139; x_wconf 26' lang='lat' dir='ltr'><em>Q</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 72 176 1137 641">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 72 176 1137 641">
+     <span class='ocr_line' id='line_1_2' title="bbox 72 176 1137 641; baseline 0 1407"><span class='ocrx_word' id='word_1_3' title='bbox 72 176 1137 641; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1107 647 1193 680">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1107 647 1193 680">
+     <span class='ocr_line' id='line_1_3' title="bbox 1107 647 1193 680; baseline 0 -16"><span class='ocrx_word' id='word_1_4' title='bbox 1107 647 1176 680; x_wconf 52' lang='lat'><strong>1⁴17)</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1189 661 1193 664; x_wconf 91' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 198 712 286 740">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 198 712 286 740">
+     <span class='ocr_line' id='line_1_4' title="bbox 198 712 286 740; baseline -0.023 -8"><span class='ocrx_word' id='word_1_6' title='bbox 198 712 286 740; x_wconf 74' lang='lat' dir='ltr'>E177.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 222 1261 1179 1310">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 222 1261 1179 1310">
+     <span class='ocr_line' id='line_1_5' title="bbox 254 1261 1179 1309; baseline 0 -23"><span class='ocrx_word' id='word_1_7' title='bbox 254 1281 274 1309; x_wconf 74' lang='lat'>&lt;5³</span> <span class='ocrx_word' id='word_1_8' title='bbox 1095 1261 1179 1286; x_wconf 75' lang='lat' dir='ltr'>F1&lt;92</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 222 1291 302 1310; baseline -0.013 0"><span class='ocrx_word' id='word_1_9' title='bbox 222 1291 250 1310; x_wconf 71' lang='grc' dir='ltr'>ΕΙ</span> <span class='ocrx_word' id='word_1_10' title='bbox 276 1295 302 1310; x_wconf 85' lang='lat' dir='ltr'>o.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 637 1338 722 1362">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 637 1338 722 1362">
+     <span class='ocr_line' id='line_1_7' title="bbox 637 1338 722 1362; baseline -0.012 -1"><span class='ocrx_word' id='word_1_11' title='bbox 637 1338 722 1362; x_wconf 60' lang='lat' dir='ltr'>meh.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 562 1663 640 1743">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 562 1663 640 1743">
+     <span class='ocr_line' id='line_1_8' title="bbox 562 1663 640 1743; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 562 1663 640 1743; x_wconf 56' lang='lat' dir='ltr'><em>sp</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
